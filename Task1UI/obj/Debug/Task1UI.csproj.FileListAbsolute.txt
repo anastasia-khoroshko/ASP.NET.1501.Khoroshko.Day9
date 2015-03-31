@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day9\Task1UI\bin\Debug\Task1UI.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day9\Task1UI\bin\Debug\Task1UI.exe
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day9\Task1UI\bin\Debug\Task1UI.pdb
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day9\Task1UI\bin\Debug\BinaryTree.dll
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day9\Task1UI\bin\Debug\BinaryTree.pdb
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day9\Task1UI\obj\Debug\Task1UI.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day9\Task1UI\obj\Debug\Task1UI.exe
+c:\users\user\documents\visual studio 2013\Projects\ASP.NET.1501.Khoroshko.Day9\Task1UI\obj\Debug\Task1UI.pdb
